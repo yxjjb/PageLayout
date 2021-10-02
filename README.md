@@ -20,3 +20,6 @@ it is Android's table layout. Use for tablerow for layout.
 ## result
 ![图片](https://github.com/yxjjb/Test2/blob/main/3.png)
 
+# 问题
+## 图二在实验中遇到预览显示和虚拟设备显示不相同问题。
+
