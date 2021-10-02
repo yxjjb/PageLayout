@@ -1,6 +1,6 @@
 # PageLayout
 This is the experiment of project 2.
-![图片](https://github.com/yxjjb/PageLayout/1.jpg)
+![图片](https://github.com/yxjjb/Test2/1.png)
 
 # First 
 it is Android's linear layout. Use for linearlayouts for layout, while are four textview in each LinearLayout. Setting attribute in textview.
